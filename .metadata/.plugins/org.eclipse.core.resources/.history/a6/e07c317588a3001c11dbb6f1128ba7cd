@@ -1,0 +1,13 @@
+package lab8;
+
+import java.io.FileInputStream;
+
+public class First {
+
+	public static void main(String[] args) {
+		String filepath="C:\\Users\\HP\\eclipse-workspace\\LAB8\\src\\lab8\\";
+		String filename="reverse.txt";
+		FileInputStream fis=null;
+	}
+
+}

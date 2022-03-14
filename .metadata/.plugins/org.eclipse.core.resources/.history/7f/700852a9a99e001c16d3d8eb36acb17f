@@ -1,0 +1,13 @@
+
+
+public class LessFundsException extends Exception {
+
+	
+
+	public LessFundsException(String message) {
+		super(message);
+		
+	}
+	
+	
+}

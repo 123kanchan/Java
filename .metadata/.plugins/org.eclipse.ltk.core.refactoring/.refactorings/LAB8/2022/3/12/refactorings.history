@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;LAB8/src/lab8/objoutput3rd&apos; to &apos;objoutput3rd.txt&apos;" description="Rename resource &apos;objoutput3rd&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/lab8/objoutput3rd" name="objoutput3rd.txt" stamp="1647259107546" updateReferences="true"/>
+</session>

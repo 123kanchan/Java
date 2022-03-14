@@ -1,0 +1,30 @@
+package lab6;
+import java.util.*;
+class PersonApp {
+	
+public static void main(String[] args) {
+	Scanner sc=new Scanner(System.in);
+	System.out.println("enter first name");
+	try {
+		String a=sc.next();
+		String b=sc.next();
+		check(a,b);
+	}
+	catch(Nameblankexception e)
+	{
+		System.out.println(e.getMessage());
+	}
+}
+
+public static void check(String fname,String lname)throws Nameblankexception
+{
+	if(fname==" ")
+	{
+		throw new Nameblankexception("enetr first name first it is blank");
+	}
+	if(lname==" ")throw new Nameblankexception("enetr first name first it is blank");
+	else {
+		Person obj=new Person("kanchan","rawat",'f');
+		System.out.println(obj);}
+}
+}

@@ -1,0 +1,9 @@
+package day6;
+
+public class FileIo_buffered_04 {
+
+public static void main(String[] args) {
+	
+}
+
+}

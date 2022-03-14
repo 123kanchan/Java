@@ -1,0 +1,32 @@
+package day4exceptionhandling;
+import java.time.*;
+import java.util.Scanner;
+public class ProductApp {
+	LocalDate date;
+	Scanner sc=new Scanner(System.in);
+public static void main(String[] args) {
+	Product p=null;
+	try {
+		
+		String res=checkContractValidity(p);
+	}
+	catch(ContractExpiredException e)
+	{
+		System.out.println(e.getMessage());
+	}
+}
+public static String checkContractValidity(Product p)throws ContractExpiredException
+{
+	
+	private String res;
+	private String dates;
+	p=new Product();
+	System.out.println("enter date");
+	dates=sc.next();
+	
+	res=p.checkDate();
+	System.out.println(res);
+}
+
+
+}
