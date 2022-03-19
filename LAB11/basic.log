@@ -1,0 +1,14 @@
+2022-03-19 12:02:47,025 INFO [lab11layeredarchitecture.MobileConnectPool] - properties are loaded
+2022-03-19 12:02:47,026 INFO [lab11layeredarchitecture.Mobile_service] - mobile services are created
+2022-03-19 12:02:51,113 INFO [lab11layeredarchitecture.MobileConnectPool] - getting details on price range
+2022-03-19 12:02:51,115 INFO [lab11layeredarchitecture.Mobile_service] - returning list of mobile in the price range
+2022-03-19 12:03:37,243 INFO [lab11layeredarchitecture.MobileConnectPool] - properties are loaded
+2022-03-19 12:03:37,243 INFO [lab11layeredarchitecture.Mobile_service] - mobile services are created
+2022-03-19 12:03:43,269 INFO [lab11layeredarchitecture.MobileConnectPool] - list of mobile 
+2022-03-19 12:03:43,270 INFO [lab11layeredarchitecture.Mobile_service] - returning the list of all mobiles
+2022-03-19 12:04:50,854 INFO [lab11layeredarchitecture.MobileConnectPool] - properties are loaded
+2022-03-19 12:04:50,855 INFO [lab11layeredarchitecture.Mobile_service] - mobile services are created
+2022-03-19 12:05:16,148 INFO [lab11layeredarchitecture.MobileConnectPool] - properties are loaded
+2022-03-19 12:05:16,149 INFO [lab11layeredarchitecture.Mobile_service] - mobile services are created
+2022-03-19 12:05:59,530 INFO [lab11layeredarchitecture.MobileConnectPool] - properties are loaded
+2022-03-19 12:05:59,530 INFO [lab11layeredarchitecture.Mobile_service] - mobile services are created

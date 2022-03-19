@@ -1,0 +1,36 @@
+2022-03-17 18:38:18,023 INFO [log.MyClass] - do_something are: 10 15.0
+2022-03-17 18:38:18,024 DEBUG [log.MyClass] - Operation performed successfully
+2022-03-17 18:38:18,024 ERROR [log.MyClass] - Value of X is null
+2022-03-17 18:40:37,442 INFO [log.MyClass] - do_something are: 10 15.0
+2022-03-17 18:40:37,443 DEBUG [log.MyClass] - Operation performed successfully
+2022-03-17 18:40:37,443 ERROR [log.MyClass] - Value of X is null
+2022-03-17 18:51:26,152 INFO [hr.Database050_ConnectPool] - In getAllEmployees() resources are ready
+2022-03-17 18:51:26,155 INFO [hr.Database050_ConnectPool] - In getAllEmployees() data are ready
+2022-03-17 18:51:26,157 INFO [hr.Database050_serviceEmp] - In method list created created
+2022-03-19 10:53:19,437 INFO [log.MyClass] - do_something are: 10 15.0
+2022-03-19 10:53:19,438 DEBUG [log.MyClass] - Operation performed successfully
+2022-03-19 10:53:19,438 ERROR [log.MyClass] - Value of X is null
+2022-03-19 11:04:20,121 INFO [hr.Database050_ConnectPool] - In getAllEmployees() resources are ready
+2022-03-19 11:04:20,133 INFO [hr.Database050_ConnectPool] - In getAllEmployees() data are ready
+2022-03-19 11:04:20,135 INFO [hr.Database050_serviceEmp] - In method list created created
+2022-03-19 11:14:24,871 INFO [hr.Database050_ConnectPool] - In getAllEmployees() resources are ready
+2022-03-19 11:14:24,876 INFO [hr.Database050_ConnectPool] - In getAllEmployees() data are ready
+2022-03-19 11:14:24,877 INFO [hr.Database050_serviceEmp] - In method list created created
+2022-03-19 11:19:03,711 INFO [hr.TestDatabase050] - In getAllEmployees() resources are ready
+2022-03-19 11:19:03,714 INFO [hr.TestDatabase050] - In getAllEmployees() data are ready
+2022-03-19 11:19:03,715 INFO [hr.Database050_serviceEmp] - In method list created created
+2022-03-19 11:22:23,904 INFO [hr.Database050_serviceEmp] - In getAllEmployees() resources are ready
+2022-03-19 11:22:23,908 INFO [hr.Database050_serviceEmp] - In getAllEmployees() data are ready
+2022-03-19 11:22:23,910 INFO [hr.Database050_serviceEmp] - In method list created created
+2022-03-19 11:25:20,479 INFO [hr.Database050_serviceEmp] - properties are loaded
+2022-03-19 11:25:20,480 INFO [hr.Database050_serviceEmp] - connection pool is ready
+2022-03-19 11:25:20,480 INFO [hr.Database050_serviceEmp] - In constructor dao object created
+2022-03-19 11:25:20,840 INFO [hr.Database050_serviceEmp] - In getAllEmployees() resources are ready
+2022-03-19 11:25:20,843 INFO [hr.Database050_serviceEmp] - In getAllEmployees() data are ready
+2022-03-19 11:25:20,845 INFO [hr.Database050_serviceEmp] - In method list created created
+2022-03-19 12:02:21,258 INFO [hr.Database050_serviceEmp] - properties are loaded
+2022-03-19 12:02:21,258 INFO [hr.Database050_serviceEmp] - connection pool is ready
+2022-03-19 12:02:21,258 INFO [hr.Database050_serviceEmp] - In constructor dao object created
+2022-03-19 12:02:21,608 INFO [hr.Database050_serviceEmp] - In getAllEmployees() resources are ready
+2022-03-19 12:02:21,611 INFO [hr.Database050_serviceEmp] - In getAllEmployees() data are ready
+2022-03-19 12:02:21,613 INFO [hr.Database050_serviceEmp] - In method list created created
