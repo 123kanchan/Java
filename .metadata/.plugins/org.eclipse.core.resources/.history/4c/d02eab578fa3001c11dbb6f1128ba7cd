@@ -1,9 +1,0 @@
-package lab8;
-
-public class objtofile {
-
-	public objtofile() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

@@ -1,9 +1,0 @@
-package lab8;
-
-public class ContactAdminException {
-
-	public ContactAdminException() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

@@ -1,9 +1,0 @@
-package day6;
-
-public class LineNumberReader {
-
-	public LineNumberReader() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

@@ -1,9 +1,0 @@
-package day6;
-
-public class FileDemo {
-
-	public FileDemo() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

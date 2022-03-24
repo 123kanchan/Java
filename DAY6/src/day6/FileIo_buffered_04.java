@@ -19,7 +19,6 @@ public class FileIo_buffered_04 {
 		} catch (IOException e) {
 			throw new Customexception("contact admin pls",e);
 		}
-		
 	}
 	public void readFiles() throws Customexception {
 		try {

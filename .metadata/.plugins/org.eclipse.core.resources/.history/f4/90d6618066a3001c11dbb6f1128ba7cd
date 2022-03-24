@@ -1,9 +1,0 @@
-package day6;
-
-public class FileIo_buffered_04 {
-
-	public FileIo_buffered_04() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
